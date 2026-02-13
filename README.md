@@ -98,9 +98,11 @@ You will see:
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Developer
 
-Taha Imran
+- **Taha Imran**
+- **Email**: tahaimran315@gmail.com -- [Email Me](mailto:tahaimran315@gmail.com)
+- **LinkedIn**: www.linkedin.com/in/taha-imran-9a6987338 -- [Taha Imran](www.linkedin.com/in/taha-imran-9a6987338)
 
 Built using:
 - Python
@@ -122,4 +124,5 @@ This is a strong base for building a real NIDS system.
 
 ---
 
-
+# 🤝 **Contributing**
+Feel free to fork the repo, suggest improvements, or raise issues. All contributions are welcome!
