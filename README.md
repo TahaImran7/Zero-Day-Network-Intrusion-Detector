@@ -35,12 +35,12 @@ Instead of training on attack data, the model is trained only on **normal (benig
 We generated a synthethic test dataset:
 
 - **Total Rows:** 500
-- **Benign Traffic:** 450 (90%)
-- **Attack Traffic:** 50 (10%)
+- **Benign Traffic:** ~ 450
+- **Attack Traffic:** ~ 50
 
 ---
 
-# Why 90% Benign & 10% Attack?
+# Why this ratio for Attack dataset?
 
 Real-world traffic mostly contains normal packets.
 
