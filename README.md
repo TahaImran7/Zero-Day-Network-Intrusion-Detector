@@ -30,7 +30,7 @@ Instead of training on attack data, the model is trained only on **normal (benig
 
 ---
 
-# 📊 Dataset Details
+# Dataset Details
 
 We generated a synthethic test dataset:
 
@@ -48,7 +48,7 @@ This distribution helps simulate realistic network behavior.
 
 ---
 
-# 🛡 Why Autoencoder?
+# Why Autoencoder?
 
 - Works without labeled attack data
 - Learns normal behavior patterns
@@ -57,7 +57,7 @@ This distribution helps simulate realistic network behavior.
 
 ---
 
-# ⚙ Requirements
+# Requirements
 
 Typical libraries used:
 
@@ -111,7 +111,7 @@ Built using:
 
 ---
 
-# ⭐ Conclusion
+# Conclusion
 
 This project demonstrates:
 
